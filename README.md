@@ -25,7 +25,7 @@ python --version
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/simple-keylogger.git
+git clone https://github.com/harisrangrez/PRODIGY_CS_04.git
 cd simple-keylogger
 
 Install the required library:
